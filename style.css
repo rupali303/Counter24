@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#value{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    font-size: 64px;
+
+
+}
+.button-container{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 64px;
+}
+.zero{
+    font-size: 36px;
+}
